@@ -1,3 +1,8 @@
+        ▖  ▖ ▝   ▗▀  ▝       ▗▖     ▗▄▄     ▗▄▖              ▗  ▐
+        ▌▐ ▌▗▄  ▗▟▄ ▗▄       ▐▌     ▐ ▝▌    ▐ ▝▖ ▄▖  ▄▖ ▗ ▗ ▗▟▄ ▐▗▖
+        ▘▛▌▌ ▐   ▐   ▐       ▌▐     ▐▄▟▘    ▐  ▌▐▘▐ ▝ ▐ ▐ ▐  ▐  ▐▘▐
+        ▐▌█▘ ▐   ▐   ▐       ▙▟     ▐       ▐  ▌▐▀▀ ▗▀▜ ▐ ▐  ▐  ▐ ▐
+        ▐ ▐ ▗▟▄  ▐  ▗▟▄     ▐  ▌ ▐  ▐       ▐▄▞ ▝▙▞ ▝▄▜ ▝▄▜  ▝▄ ▐ ▐ 
 Scan wireless networks for active hosts and deauthenticate users from the wireless network
 
 Usage: wifi_deauth.py [options]

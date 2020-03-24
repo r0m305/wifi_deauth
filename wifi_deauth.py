@@ -3,6 +3,7 @@ Author: Romeos CyberGypsy
 Date : 1/2/2020
 Module: wifi_deauth.py
 Purpose : Deauthenticate users from a wifi network
+Status: Under development
 '''
 
 ###########################
@@ -90,4 +91,11 @@ class Engine:
             loop-=1
 
 if __name__ == '__main__':
+    banner = '''
+        ▖  ▖ ▝   ▗▀  ▝       ▗▖     ▗▄▄     ▗▄▖              ▗  ▐
+        ▌▐ ▌▗▄  ▗▟▄ ▗▄       ▐▌     ▐ ▝▌    ▐ ▝▖ ▄▖  ▄▖ ▗ ▗ ▗▟▄ ▐▗▖
+        ▘▛▌▌ ▐   ▐   ▐       ▌▐     ▐▄▟▘    ▐  ▌▐▘▐ ▝ ▐ ▐ ▐  ▐  ▐▘▐
+        ▐▌█▘ ▐   ▐   ▐       ▙▟     ▐       ▐  ▌▐▀▀ ▗▀▜ ▐ ▐  ▐  ▐ ▐
+        ▐ ▐ ▗▟▄  ▐  ▗▟▄     ▐  ▌ ▐  ▐       ▐▄▞ ▝▙▞ ▝▄▜ ▝▄▜  ▝▄ ▐ ▐ '''
+    print(colored(banner,"green"))
     obj = Engine()
